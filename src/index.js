@@ -4,5 +4,5 @@ const $ = require('jquery');
  
 console.log(sum(113,22));
 console.log(guard('Dima'));
-
+console.log("yes");
 console.log($);
